@@ -1,0 +1,1531 @@
+1554876802666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dn/khv5zl0d5l3718vqwn7qsfxc0000gn/T/rust_mozprofile.C5Dbps5cxtXG"
+1554876803093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554876803094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554876803094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554876804457	Marionette	INFO	Listening on port 61942
+1554876804515	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://edgesync.net/, line 49: TypeError: components[i].value.join is not a function
+1554877041690	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dn/khv5zl0d5l3718vqwn7qsfxc0000gn/T/rust_mozprofile.ILekVCNnB7bU"
+1554877042171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554877042171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554877042171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554877043557	Marionette	INFO	Listening on port 64088
+1554877043648	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.fqtag.com/1.16.250-35b4dae/pixel.js, line 4: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://vd.vidoplay.com/v2vjs/sas/20190320_290bbcc2fa974414b2df0da312634ef32965493c/wbk/v2v_e_c_bundle.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://vd.vidoplay.com/v2vjs/sas/20190320_290bbcc2fa974414b2df0da312634ef32965493c/wbk/v2v_e_c_bundle.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+AVDCreateGPUAccelerator: Error loading GPU renderer
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://edgesync.net/, line 49: TypeError: components[i].value.join is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "null has no properties"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/loader18.html?https://vpaid.springserve.net/production/vpaid_789074cb.js, line 1: SyntaxError: function statement requires a name
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/loader18.html?https://vpaid.springserve.net/production/vpaid_789074cb.js, line 1: SyntaxError: function statement requires a name
+AVDCreateGPUAccelerator: Error loading GPU renderer
+JavaScript warning: https://cdn.fqtag.com/1.16.250-35b4dae/pixel.js, line 4: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/9.1.44/0.js, line 21: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/9/html5API.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+1554877560524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dn/khv5zl0d5l3718vqwn7qsfxc0000gn/T/rust_mozprofile.P9GdCkzAR7Aq"
+1554877561128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554877561128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554877561128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554877563123	Marionette	INFO	Listening on port 51941
+1554877563204	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+AVDCreateGPUAccelerator: Error loading GPU renderer
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-1697js75c9urini2qz.js?adID=423114212&advertiserID=2276943&campaignID=10502301&placementID=225237732&environment=i&siteid=1372902&country=ct=US&st=CA&city=14758&dma=197&zp=94553&bw=4&match=AMsySZau2KHkSIzgSUtnD6d6jndx&site=N1395.285959.YAHOO.COM&landingpage= line 1 > eval, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.proofpositivemedia.com/s/m.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+2019-04-10 06:26:45.971 plugin-container[5100:68609] NSNotificationCenter connection invalid
+console.error: "Error while calling actor 'layout's method 'getGrids'" "null has no properties"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript error: https://cdn.doubleverify.com/dv-measurements262.js, line 53: NS_ERROR_NOT_INITIALIZED: 
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1554877690830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dn/khv5zl0d5l3718vqwn7qsfxc0000gn/T/rust_mozprofile.ge06JBr3ig2g"
+1554877691333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554877691334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554877691334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554877692689	Marionette	INFO	Listening on port 53784
+1554877692795	Marionette	WARN	TLS certificate errors will be ignored for this session
+AVDCreateGPUAccelerator: Error loading GPU renderer
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+AVDCreateGPUAccelerator: Error loading GPU renderer
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+1554877962216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dn/khv5zl0d5l3718vqwn7qsfxc0000gn/T/rust_mozprofile.6dR1MsOr9RiV"
+1554877962723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554877962723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554877962723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+1554877964162	Marionette	INFO	Listening on port 55679
+1554877964187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://edgesync.net/, line 49: TypeError: components[i].value.join is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1554878001751	Marionette	INFO	Stopped listening on port 61942
+1554878004878	Marionette	INFO	Stopped listening on port 64088
+1554878006612	Marionette	INFO	Stopped listening on port 51941
+1554878008279	Marionette	INFO	Stopped listening on port 53784
+1554878009896	Marionette	INFO	Stopped listening on port 55679
+1554878013676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dn/khv5zl0d5l3718vqwn7qsfxc0000gn/T/rust_mozprofile.yFcexzlHA9Ds"
+1554878014106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554878014107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554878014107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554878015457	Marionette	INFO	Listening on port 56804
+1554878015532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+AVDCreateGPUAccelerator: Error loading GPU renderer
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+console.error: "Task cancelled"
+console.error: "Task cancelled"
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+1554878167068	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dn/khv5zl0d5l3718vqwn7qsfxc0000gn/T/rust_mozprofile.mzutZU2oA284"
+1554878167554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554878167554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554878167554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554878169107	Marionette	INFO	Listening on port 58720
+1554878169136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/loader18.html?//embed.sendtonews.com/player4/imaShim.js, line 71: TypeError: window.parent is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+JavaScript error: https://s.update.ap.lijit.com/2/4.43.0/main.js, line 1: TypeError: t is null
+AVDCreateGPUAccelerator: Error loading GPU renderer
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.fqtag.com/1.16.250-35b4dae/pixel.js, line 4: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://s0.2mdn.net/6994014/1551993667760/728x90-Hero.js?1551564660857, line 266: TypeError: this.replay is undefined
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://edgesync.net/js/prince.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://edgesync.net/, line 49: TypeError: components[i].value.join is not a function
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://cdn.fqtag.com/1.16.250-35b4dae/pixel.js, line 4: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-1697js75c9urini2qz.js?adID=423114212&advertiserID=2276943&campaignID=10502301&placementID=225237732&environment=i&siteid=1372902&country=ct=&st=&city=0&dma=0&zp=&bw=0&match=AMsySZZ7f9pDOARyNr_3n_XU4Tkd&site=N1395.285959.YAHOO.COM&landingpage= line 1 > eval, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.proofpositivemedia.com/s/m.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://embed.sendtonews.com/player2/embedcode.php?fk=V99FXqkK&cid=9172, line 761: NS_ERROR_NOT_INITIALIZED: 
+2019-04-10 06:43:19.919 plugin-container[5443:77498] NSNotificationCenter connection invalid
+[Parent 5440, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+JavaScript error: https://cdn.doubleverify.com/dv-measurements262.js, line 53: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1554879057101	Marionette	INFO	Stopped listening on port 58720
+1554879058443	Marionette	INFO	Stopped listening on port 56804
